@@ -1,0 +1,2 @@
+# Quoter
+ Russian quote collection
